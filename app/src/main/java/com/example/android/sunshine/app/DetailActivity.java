@@ -49,6 +49,15 @@ public class DetailActivity extends AppCompatActivity {
 
             // Being here means we are in animation mode
             supportPostponeEnterTransition();
+
+
+
+
+
+
+
+
+
         }
     }
 }
